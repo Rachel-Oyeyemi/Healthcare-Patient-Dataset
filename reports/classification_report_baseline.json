@@ -1,0 +1,1 @@
+{"Abnormal":{"precision":0.348,"recall":0.328,"f1-score":0.338},"Inconclusive":{"precision":0.328,"recall":0.333,"f1-score":0.330},"Normal":{"precision":0.294,"recall":0.310,"f1-score":0.302},"accuracy":0.3233,"macro avg":{"precision":0.3231,"recall":0.3237,"f1-score":0.3231}}

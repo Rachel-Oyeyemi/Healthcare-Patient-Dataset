@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+/data/raw/*.csv
+/data/raw/*.zip
+/data/processed/*.csv
+/models/evaluation_split.joblib
+catboost_info/
+/visuals/*.png

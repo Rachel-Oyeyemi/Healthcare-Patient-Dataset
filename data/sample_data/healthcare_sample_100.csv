@@ -1,0 +1,1 @@
+This compact repository uses `healthcare_sample.csv` as the runnable preview. Download the full official dataset with `python src/download_data.py --no-sample`.

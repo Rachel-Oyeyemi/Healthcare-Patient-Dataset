@@ -1,0 +1,4 @@
+{
+  "baseline_logistic_regression":{"accuracy":0.3233,"macro_precision":0.3231,"macro_recall":0.3237,"macro_f1":0.3231,"roc_auc_ovr_macro":0.4830,"classes":["Abnormal","Inconclusive","Normal"]},
+  "advanced_catboost":{"accuracy":0.3167,"macro_precision":0.2990,"macro_recall":0.3080,"macro_f1":0.2834,"roc_auc_ovr_macro":0.4900,"classes":["Abnormal","Inconclusive","Normal"]}
+}

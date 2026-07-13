@@ -1,0 +1,9 @@
+{
+  "target":"test_results",
+  "features":["age","gender","blood_type","medical_condition","insurance_provider","billing_amount","room_number","admission_type","medication","length_of_stay","admission_month","admission_year","is_negative_billing"],
+  "excluded_identifiers":["name","doctor","hospital"],
+  "random_seed":42,
+  "baseline":"Logistic Regression",
+  "advanced":"CatBoost",
+  "responsible_use":"Synthetic-data portfolio demonstration only; not for clinical decisions."
+}
